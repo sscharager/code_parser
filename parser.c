@@ -1,5 +1,3 @@
-// Sebastian Scharager
-// se432372
 // COP 3402: Systems Software
 // parser.c
 
